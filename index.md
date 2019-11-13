@@ -9,8 +9,8 @@ The Nerves remote meetup is held monthly (usually on the last Wednesday of the m
 
 ## Schedule
 
-The next Meetup is scheduled for Wednesday, October 30, 2019 at 8:00pm MDT (UTC-6).
+The next Meetup is scheduled for Wednesday, November 27, 2019 at 8:00pm MDT (UTC-6).
 
-The agenda is to Michael Ries discuss his Nerves-powered glider, and Todd Resudek discuss his Nerves-based air quality monitor, [breathe](https://github.com/supersimple/breathe)
+The agenda is TBD. Please reach out via Slack or Email if you have a topic to present.
 
 If you are interested in presenting, please email [toddresudek@gmail.com](mailto:toddresudek@gmail.com)
