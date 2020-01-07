@@ -5,11 +5,11 @@ The Nerves remote meetup is held monthly (usually on the last Wednesday of the m
 ---
 
 ## Click this link to join:
-[Zoom Meeting](https://zoom.us/j/667618333)
+[Zoom Meeting](https://zoom.us/j/718940809)
 
 ## Schedule
 
-The next Meetup is scheduled for Wednesday, November 27, 2019 at 8:00pm MDT (UTC-6).
+The next Meetup is scheduled for Wednesday, January 22, 2020 at 8:00pm MDT (UTC-6).
 
 The agenda is TBD. Please reach out via Slack or Email if you have a topic to present.
 
