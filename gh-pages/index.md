@@ -6,7 +6,7 @@ The Nerves remote meetup is held monthly (usually on the last Wednesday of the m
 ---
 
 ## Click this link to join:
-[Zoom Meeting](https://zoom.us/j/718940809)
+[Zoom Meeting](https://zoom.us/j/747873927)
 
 
 ## Schedule
