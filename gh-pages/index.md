@@ -6,15 +6,14 @@ The Nerves remote meetup is held monthly (usually on the last Wednesday of the m
 ---
 
 ## Click this link to join:
-[Zoom Meeting](https://zoom.us/j/747873927)
-
+[Zoom Meeting](https://zoom.us/j/tbd)
 
 ## Schedule
 
-The next Meetup is scheduled for Wednesday, February 26, 2020 at 8:00pm MDT (UTC-6).
+The next Meetup is scheduled for Wednesday, March 25, 2020 at 8:00pm MDT (UTC-6).
 
-For those attending Lonestar Elixir, we will arrange for a physical meeting space.
+Mark Sebald will present his application to implement a block programming system using Nerves/Elixir/Erlang.
 
-The agenda is TBD. Please reach out via Slack or Email if you have a topic to present.
+We will also have time to discuss projects you are working on and answer any Nerves-related questions.
 
 If you are interested in presenting, please email [toddresudek@gmail.com](mailto:toddresudek@gmail.com)
