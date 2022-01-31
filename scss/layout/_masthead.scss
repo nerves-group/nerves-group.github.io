@@ -1,4 +1,8 @@
 .masthead {
+  /* Added for redirect page */
+  height: 100vh;
+  /* ------------------ */
+
   padding-top: calc(6rem + 74px);
   padding-bottom: 6rem;
   .masthead-heading {
@@ -7,6 +11,11 @@
   }
   .masthead-subheading {
     font-size: 1.25rem;
+
+    /* Added for redirect page */
+    color: #212529;
+    a { color: #212529; }
+    /* ------------------ */
   }
   .masthead-avatar {
     width: 15rem;
